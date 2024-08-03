@@ -1,11 +1,11 @@
 import React from 'react'
-import About from './Components/About/About'
-import Contact from './Components/Contact/Contact'
-import Footer from './Components/Footer/Footer'
-import Hero from './Components/Hero/Hero'
-import MyWork from './Components/MyWork/MyWork'
-import Navbar from './Components/Navbar/Navbar'
-import Services from './Components/Services/Services'
+import About from './Components/about/about'
+import Contact from './Components/contact/contact'
+import Footer from './Components/footer/footer'
+import Hero from './Components/hero/hero'
+import MyWork from './components/mywork/mywork'
+import Navbar from './components/navbar/navbar'
+import Services from './components/services/services'
 
 const App = () => {
   return (
